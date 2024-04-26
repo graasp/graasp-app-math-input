@@ -35,7 +35,7 @@ export const mockItem: DiscriminatedItem = AppItemFactory({
 export const defaultMockContext: LocalContext = {
   apiHost: API_HOST,
   permission: PermissionLevel.Admin,
-  context: 'builder',
+  context: 'player',
   itemId: mockItem.id,
   memberId: mockMembers[0].id,
 };
