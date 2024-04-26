@@ -1,11 +1,14 @@
 {
   "name": "graasp-app-math-input",
-  "version": "1.2.3",
+  "version": "0.0.0",
   "license": "AGPL-3.0-only",
   "author": "Graasp",
   "contributors": [
-    "Basile Spaenlehauer",
-    "Jérémy La Scala"
+    {
+      "name": "Jérémy La Scala",
+      "email": "jeremy.lascala@epfl.ch",
+      "url": "https://github.com/swouf"
+    }
   ],
   "homepage": ".",
   "type": "module",
@@ -25,6 +28,7 @@
     "@types/react": "18.2.79",
     "@types/react-dom": "18.2.25",
     "i18next": "^23.9.0",
+    "mathlive": "^0.98.6",
     "react": "18.2.0",
     "react-dom": "18.2.0",
     "react-i18next": "14.1.1",
@@ -34,6 +38,7 @@
   "scripts": {
     "dev": "yarn vite",
     "start": "yarn dev",
+    "dev:mock": "VITE_ENABLE_MOCK_API=true && yarn vite",
     "start:test": "yarn vite --mode test",
     "build": "yarn vite build",
     "build:test": "yarn vite build --mode test",

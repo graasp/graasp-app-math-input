@@ -1,6 +1,8 @@
 {
   "translations": {
     "Welcome to the Graasp App Starter Kit": "Welcome to the Graasp App Starter Kit",
+    "MATH_INPUT_TAB": "Math input",
+    "SETTINGS_TAB": "Settings",
     "ERROR_BOUNDARY": {
       "FALLBACK": {
         "MESSAGE_TITLE": "Sorry, something went wrong with this application",
