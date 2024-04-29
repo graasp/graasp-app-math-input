@@ -1,5 +1,12 @@
 # Changelog
 
+## 1.0.0 (2024-04-29)
+
+
+### Bug Fixes
+
+* **deps:** update dependency @graasp/ui to v4.15.3 ([a6934f7](https://github.com/graasp/graasp-app-math-input/commit/a6934f77065884eff079992db8d6dc8aaf9085c2))
+
 ## [1.2.3](https://github.com/graasp/graasp-app-starter-ts-vite/compare/v1.2.2...v1.2.3) (2024-04-11)
 
 
