@@ -1,5 +1,17 @@
 # Changelog
 
+## 1.0.0 (2026-09-21)
+
+
+### Bug Fixes
+
+* **deps:** update dependency @graasp/apps-query-client to v3.4.15 ([#17](https://github.com/graasp/graasp-app-math-input/issues/17)) ([b0e7ec0](https://github.com/graasp/graasp-app-math-input/commit/b0e7ec01e2ad269b88b0e5e33f82e3f203c3e5ef))
+* **deps:** update dependency @graasp/ui to v4.15.3 ([a6934f7](https://github.com/graasp/graasp-app-math-input/commit/a6934f77065884eff079992db8d6dc8aaf9085c2))
+* **deps:** update dependency @types/node to v20.12.14 ([#18](https://github.com/graasp/graasp-app-math-input/issues/18)) ([c3daf29](https://github.com/graasp/graasp-app-math-input/commit/c3daf29f301cc51d51166f657c138b2d02147ee1))
+* **deps:** update dependency react-i18next to v14.1.3 ([#19](https://github.com/graasp/graasp-app-math-input/issues/19)) ([326148e](https://github.com/graasp/graasp-app-math-input/commit/326148e290c4e1a9a77f89a86e2473bec8accd64))
+* **deps:** update mui (non-major) ([#21](https://github.com/graasp/graasp-app-math-input/issues/21)) ([f116aa9](https://github.com/graasp/graasp-app-math-input/commit/f116aa9d0aa9ca187d2b415e1343c8f2abdb18d7))
+* **deps:** update react monorepo ([#9](https://github.com/graasp/graasp-app-math-input/issues/9)) ([7000b94](https://github.com/graasp/graasp-app-math-input/commit/7000b94a7f3bc7a6a1c4e035dbe085430e7f9be8))
+
 ## [1.2.3](https://github.com/graasp/graasp-app-starter-ts-vite/compare/v1.2.2...v1.2.3) (2024-04-11)
 
 
